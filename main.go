@@ -1,4 +1,4 @@
-package main
+package brokenexample
 
-func main() {
+func Foo() {
 }

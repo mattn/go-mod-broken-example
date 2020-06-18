@@ -1,5 +1,5 @@
-package main
+package brokenexample
 
-func main() {
+func Foo() {
 	println("v2")
 }
